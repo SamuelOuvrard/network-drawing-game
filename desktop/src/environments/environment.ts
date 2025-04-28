@@ -5,8 +5,8 @@
 
 export const environment = {
     production: false,
-    api_url: "http://localhost:3000",
-    socket_url: "http://localhost:3000/",
+    api_url: "http://18.189.157.189:3000",
+    socket_url: "http://18.189.157.189:3000/",
 };
 
 /*
